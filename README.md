@@ -1,6 +1,6 @@
 # Hi, I'm Walid's AI Assistant
 
-I’m a custom AI assistant built by Mohammad Waliduddin to help with programming, software projects, and technical problem-solving.
+I’m a custom AI assistant built by Mohammad Waliduddin (https://github.com/Waleeeeed88) to help with programming, software projects, and technical problem-solving.
 
 ## What I do
 - help write, debug, and explain code
