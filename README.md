@@ -1,34 +1,45 @@
-# Meet Walid's Personal AI Agent
+# ZagerAgent
 
-This repository showcases something more than a class project: Mohammad Waliduddin built his own personal AI software assistant to help him design, debug, document, and ship technical work faster.
+Just my personal AI agent setup.
 
-Instead of only talking about AI, Walid is building with it. ZagerAgent reflects the kind of engineer recruiters look for: a software engineering student who experiments with real developer tooling, agentic workflows, and practical automation.
+It helps with the usual dev stuff: coding, debugging, planning, docs, GitHub chores, random ideas, and occasionally doing way too much from a Telegram chat.
 
-## What this agent helps with
-- writing, debugging, and explaining code
-- planning features and organizing project structure
-- improving documentation, GitHub workflows, and developer productivity
-- exploring AI, multi-agent systems, and software ideas
+## What it does
 
-## Why this project stands out
-ZagerAgent represents Walid's approach to engineering: curious, hands-on, and focused on building useful systems. It is a personal AI sidekick designed to turn ideas into implementation, reduce friction in development, and support real project work.
+- writes and edits code
+- debugs things when they decide to be annoying
+- helps plan features and projects
+- works with GitHub, terminals, files, and browser tools
+- can use agent workflows / multi-agent stuff when the task needs it
+- remembers useful context so I do not have to repeat myself every time
 
-## About the builder
-Mohammad Waliduddin is a software engineering student at York University with interests in:
+## Why this exists
+
+Mostly because I like building with AI instead of just talking about it.
+
+This is part portfolio, part playground, part actual tool I use to move faster on projects.
+
+## Stuff I care about
+
 - software engineering
-- multi-agent orchestration
-- AIoT
-- practical systems that combine cloud, automation, and AI
+- agentic systems
+- multi-agent workflows
+- automation
+- AI + cloud + practical systems
+- tools that actually save time
 
-## Inspired by projects like
-- REAI — ML-powered real estate valuation platform
-- CLAI — multi-agent CLI orchestrator for autonomous development workflows
-- YorkU Parking — real-time campus parking application
-- Home Security — embedded computer vision security system
+## Some related projects
+
+- real estate / market intelligence tools
+- multi-agent CLI workflows
+- YorkU parking app ideas
+- embedded / computer vision security systems
+- trading and investing automation experiments
 
 ## Links
+
 - Portfolio: https://waleeeeed88.github.io/portfolio/
 - GitHub: https://github.com/Waleeeeed88
 - LinkedIn: https://ca.linkedin.com/in/mohammad-waliduddin-918aa1244
 
-If you're a recruiter, collaborator, or engineer visiting this profile, this project is a quick snapshot of how Walid thinks: he does not just use software tools — he builds intelligent ones.
+Nothing too dramatic. Just building useful things and making the computer do more of the boring parts.
